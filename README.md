@@ -1,5 +1,4 @@
 # TASK-4_Elabs
-# task4_elevatelabs
 # SQL Data Analysis Project — E-commerce Dataset
 
 ## 📝 Objective
